@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Metrónomo
+Comment=Aplicación de Metrónomo en Python
+Exec=/home/guillermo/.gemini/antigravity/playground/plasma-newton/dist/Metronomo
+Icon=utilities-terminal
+Terminal=false
+Categories=Utility;Audio;
